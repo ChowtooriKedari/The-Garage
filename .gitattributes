@@ -7,3 +7,6 @@
 default/scenes/*.ma filter=lfs diff=lfs merge=lfs -text
 default/substances/*.sbsar filter=lfs diff=lfs merge=lfs -text
 default/substances/*.tx filter=lfs diff=lfs merge=lfs -text
+Kedari_Room_Garage/scenes/*.ma filter=lfs diff=lfs merge=lfs -text
+Kedari_Room_Garage/sourceimages/*.tx filter=lfs diff=lfs merge=lfs -text
+Kedari_Room_Garage/substance/*.sbsar filter=lfs diff=lfs merge=lfs -text
