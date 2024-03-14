@@ -1,0 +1,9 @@
+'*.sbsar' filter=lfs diff=lfs merge=lfs -text
+'*.tx' filter=lfs diff=lfs merge=lfs -text
+'*.ma' filter=lfs diff=lfs merge=lfs -text
+* !text !filter !merge !diff
+*.sbsar filter=lfs diff=lfs merge=lfs -text
+'default/scenes/*.ma' filter=lfs diff=lfs merge=lfs -text
+default/scenes/*.ma filter=lfs diff=lfs merge=lfs -text
+default/substances/*.sbsar filter=lfs diff=lfs merge=lfs -text
+default/substances/*.tx filter=lfs diff=lfs merge=lfs -text
