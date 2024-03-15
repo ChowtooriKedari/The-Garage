@@ -1,1 +1,1 @@
-![Garage Shot-1](Garage Shot - 1.jpg)
+![Garage Shot-1](Shot-1.jpg)
